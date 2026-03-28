@@ -3,18 +3,12 @@ Data Integration/Standardization: compiled permafrost, soil carbon, hydrology, a
 Index Development
 Normalized variables (0–1 scale) representing:
 All variables are normalized (0–1) and combined into sub-indices:
-- **Carbon Storage Index**
-  Derived from NCSCDv2 carbon stocks across multiple depths and cryogenic carbon pools  
-- **Ground Vulnerability Index**
--   Based on permafrost extent, ground-ice content, and terrain characteristics  
-- **Soil Vulnerability Index**  
-  Represents soil composition and permafrost-associated soil types  
-- **Active Layer Thickness (ALT)**  
-  Derived from NASA ABoVE  
-- **Soil Moisture Index**  
-  Weighted combination of SoilGrids volumetric water content at multiple depths
-  
-From this,a composite geological permafrost carbon risk index using weighted overlay was created. 
+- **Carbon Storage Index**: Derived from NCSCDv2 carbon stocks across multiple depths and cryogenic carbon pools  
+- **Ground Vulnerability Index**:Based on permafrost extent, ground-ice content, and terrain characteristics  
+- **Soil Vulnerability Index**: Represents soil composition and permafrost-associated soil types  
+- **Active Layer Thickness (ALT)**: Derived from NASA ABoVE  
+- **Soil Moisture Index**: Weighted combination of SoilGrids volumetric water content at multiple depths 
+From this, a composite geological permafrost carbon risk index using weighted overlay was created. 
 
 High-Risk Area Identification
 Identified regions where high carbon availability overlaps with favorable thaw conditions
