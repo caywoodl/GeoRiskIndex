@@ -5,8 +5,8 @@ Normalized variables (0–1 scale) representing:
 All variables are normalized (0–1) and combined into sub-indices:
 - **Carbon Storage Index**
   Derived from NCSCDv2 carbon stocks across multiple depths and cryogenic carbon pools  
-- **Ground Vulnerability Index**  
-  Based on permafrost extent, ground-ice content, and terrain characteristics  
+- **Ground Vulnerability Index**
+-   Based on permafrost extent, ground-ice content, and terrain characteristics  
 - **Soil Vulnerability Index**  
   Represents soil composition and permafrost-associated soil types  
 - **Active Layer Thickness (ALT)**  
